@@ -50,7 +50,6 @@ BASIC SCREENS
 | ![1](./screenshots/multi-step-form-mobile-1.png) | ![2](./screenshots/multi-step-form-mobile-2.png) | ![3](./screenshots/multi-step-form-mobile-3.png) | ![4](./screenshots/multi-step-form-mobile-4.png) | ![5](./screenshots/multi-step-form-mobile-5.png) |
 | :-----------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
 
-DIFFERENT GAME STATES
 DIFFERENT SCREENS STATES
 | ![1](./screenshots/multi-step-form-mobile-6.png) | ![2](./screenshots/multi-step-form-mobile-7.png) | ![3](./screenshots/multi-step-form-mobile-8.png) |
 | :-----------------------------------------------------: | :-----------------------------------------------------: | :-----------------------------------------------------: |
